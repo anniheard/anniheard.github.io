@@ -4,10 +4,10 @@
  * L&T quote generator
  */
 
-var things = ["Music", "Art", "Dance", "Theater", "Math", "Architecture"];
-var programmers = ["musician", "artist", "choreographer", "director", "mathematician", "architect"]
-var castles = ["museums", "bridges", "cities"]
-var exertions = ["effort", "strain", "struggle", "toil", "endeavor", "hard work", "labor"];
+var things = ["Torture", "Water", "Leaf", "Theater", "Math", "Architecture"];
+var programmers = ["Magician", "Chicken Finger taste tester", "Pokemon trainer", "Juggler", "Unemployed", "architect"]
+var castles = ["garbage can", "dumpster", "trash"]
+var exertions = ["itching", "upset stomach", "burning", "nausea", "heartburn", "indigestion", "diahrrea"];
 var airs = ["sky", "atmosphere", "heavens", "ether", "wind"];
 
 function choosei(lst){
