@@ -125,9 +125,7 @@ var rules = {
     "What other connections do you see?",
   ],
   "~*x no ~*y": [
-    "Why not?",
-    "You are being a bit negative.",
-    "Are you saying 'No' just to be negative?",
+   'dont you dare say no to me ill kill u",
   ],
   "~*x I was ~*y": [
     "Were you really?",
