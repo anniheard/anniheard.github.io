@@ -41,12 +41,12 @@ var rules = {
     "What do you think machines have to do with your problem?",
   ],
   "~*x name ~*y": [
-    "I am not interested in names",
+    "NAMES ARE DUMB, IDIOT.",
   ],
   "~*x sorry ~*y": [
-    "Please don't apologize",
+    "idiot.",
     "Apologies are not necessary",
-    "What feelings do you have when you apologize",
+    "L FOR LOVE!",
   ],
   "~*x I remember ~*y": [
     "Do you often think of ~y?",
@@ -73,10 +73,8 @@ var rules = {
     "Suppose you got ~y soon.",
   ],
   "~*x if ~*y": [
-    "Do you really think it's likely that ~y?",
-    "Do you wish that ~y?",
-    "What do you think about ~y?",
-    "Really--if ~y?",
+    "Why are you talking to me.",
+  
   ],
   "~*x I dreamt ~*y": [
     "Really-- ~y",
@@ -93,8 +91,8 @@ var rules = {
     "Don't you believe that dream has to do with your problem?",
   ],
   "~*x my mother ~*y": [
-    "Who else in your family ~y?",
-    "Tell me more about your family",
+    "You're adopted; your mother doesn't even love you."
+
   ],
   "~*x my father ~*y": [
     "Your father?",
